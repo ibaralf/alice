@@ -1,3 +1,0 @@
-"alice" with address "cosmos1744jzfxne08gt57pzss5nqk0dfpfjhfksgnujg" with mnemonic: "shrug allow like fine harbor twin void impose shove among awkward fitness fine broccoli web jaguar reject hero diet steel dry promote rib vicious"
-
-"bob" with address "cosmos1ywuf3g8vx9hykqlewn0940lmctf23dkle4sl3k" with mnemonic: "little blur jazz issue produce match stove envelope inner motor siege ice sense person talent fiscal real forum bright nuclear acoustic copper useful need"
